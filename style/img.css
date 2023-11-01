@@ -1,0 +1,13 @@
+
+.holder_wrap{
+    position:relative;
+    margin:auto;
+    display:block;
+    height:120px; /* กำหนดความสูงส่วนพื้นที่คลุมเนื้อหาทั้งหมด */
+}
+.holder_wrap_img{
+    position:absolute;/* กำหนดการจัดตำแหน่งส่วนพื้นที่คลุมเนื้อหารุปและข้อความซ้อนทับ */
+}
+.holder_wrap_img img{
+    position:relative; /* กำหนดการจัดตำแหน่งของรูป */
+}

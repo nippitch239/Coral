@@ -1,0 +1,45 @@
+.about-coral{
+    padding-right: 20%;
+    padding-top: 20px;
+    margin-left: 20%;
+}
+h2{
+    font-family: 'Mali', cursive;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+h3{
+    font-family: 'Mali', cursive;
+    font-weight: bold;
+}
+.box1{
+    width: auto;
+    height: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    justify-items: auto;
+    border-radius: 10px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.box2{
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-items: auto;
+    border-radius: 10px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.box3{
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-items: auto;
+    border-radius: 10px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}

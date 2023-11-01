@@ -1,0 +1,18 @@
+.parallax {
+    /* The image used */
+  
+    /* Set a specific height */
+    /* min-height: 600px;  */
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.about-coral{
+    height: 500px;
+    font-size: 21px;
+    font-family: 'Mali', cursive;
+    font-weight: bold;
+}

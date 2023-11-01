@@ -1,0 +1,25 @@
+/* Style the navigation bar */
+.navbar {
+    width: 100%;
+    overflow: auto;
+    margin-bottom: 5px;
+    font-family: 'Mali', cursive;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: right;
+    text-align: center;
+    padding: 12px;
+    color: rgb(245, 245, 245);
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+  @media screen and (max-width: 425px) {
+    .navbar a {
+      float: none;
+      display: block;
+    }
+  }
